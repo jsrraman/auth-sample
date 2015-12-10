@@ -1,4 +1,7 @@
 {
+  "db": {
+    "defaultUrl":"postgres://rajaraman@localhost:5432/auth_sample"
+  },
   "fb": {
     "appID": "112983219072509",
     "appSecret": "19ff1ed6f39985bac76ac38c6ec9ca4a",
